@@ -1,6 +1,6 @@
 # Reference to the app module
 terraform {
-  source = "github.com/LuisRuivo21/modules//app?ref=v1.0.0"
+  source = "github.com/LuisRuivo21/modules//app"
 }
 
 # dependency "mysql" {
